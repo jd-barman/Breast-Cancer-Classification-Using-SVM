@@ -142,17 +142,17 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 ### Screenshot
 
-Dataset Visualisation
+##### Dataset Visualisation
 ![dataset-visualization](https://user-images.githubusercontent.com/118118656/209261582-49343947-c4a0-48c4-b637-dbc6f6786dc4.png)
 
 
-Heatmap of Correlation Matrix
+##### Heatmap of Correlation Matrix
 ![correlation](https://user-images.githubusercontent.com/118118656/209261600-8265158b-af16-451c-8ac4-23b9ba5e1b0d.png)
 
-Confusion Matrix - Before Improvement
+##### Confusion Matrix - Before Improvement
 ![confusion-matrix-1](https://user-images.githubusercontent.com/118118656/209261615-a3f9120d-fa92-4115-b2f9-3918de58ea6f.png)
 
-Confusion Matrix - After Improvement
+##### Confusion Matrix - After Improvement
 ![confusion-matrix-2](https://user-images.githubusercontent.com/118118656/209261625-37fce9bc-e733-4ac8-9c86-d859661326f9.png)
 
 
